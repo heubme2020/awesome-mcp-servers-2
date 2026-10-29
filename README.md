@@ -334,6 +334,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 <br />
 
 ## 💹 <a name="finance"></a>Finance
+- [DataSinking](https://github.com/heubme2020/datasinking) - Full-text financial reports (annual/semi-annual/quarterly) from US/China/Japan/Korea/Taiwan/UK as clean Markdown, queryable by FMP-style symbol and section.
 
 > Financial data and cryptocurrency information services.
 
